@@ -8,3 +8,7 @@ let jhon_doe = {
 let y = null;
 let x;
 const PI = 3.14159;
+console.log("person name is"+ jhon);
+console.log(y);
+console.log(x);
+console.log(PI);
